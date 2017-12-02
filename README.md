@@ -10,7 +10,7 @@ _Run the following commands in Terminal:_
 3. `$ open index.html`
 
 ## Project Goals
-* _Practice writing basic math functions in JavaScript._
+* _Practice writing basic math functions in JavaScript. There are several functions in the back end, but currently, the interface only allows one function to be performed at a time._
 
 ## Future Features
 * _As a user, I want to..._
